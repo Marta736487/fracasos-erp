@@ -274,6 +274,9 @@ Demandas cruzadas por la interrupción en la ejecución del proyecto en 2007 por
 - **ERP desconocido y Alpha, Beta, Gamma, Delta (desconocidas)**:
 [Critical Failure Factors in ERP Implementation](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1152&context=pacis2005) (Fuente: Irene Fumanal Lacoma)
 
+**ERP ficticio y Taiwan** : [ERP Implementation Failures in Taiwan] (https://www.researchgate.net/publication/317872237_ERP_Implementation_Failures_in_Taiwan) (Fuente: Marta Lampaya)
+
+
 ### 2006
 
 - **Bearing Point y Department of Homeland Security (EE.UU.)**: [Department of Homeland Security – Emerge2 Project – USA](http://calleam.com/WTPF/?p=1865) y [EMERGE2's failure sends DHS back to drawing board](https://fcw.com/articles/2006/03/30/emerge2s-failure-sends-dhs-back-to-drawing-board.aspx?admgarea=TC_Management) (Fuente: Daniel Cabrera)
